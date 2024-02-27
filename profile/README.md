@@ -1,4 +1,1 @@
-Electronic Life
----
-Tom Savage, Ed D'souza, and Sunil Manghani 
-
+[Tom Savage](https://sav.phd/about.html) $\leftrightarrow$ [Ed D'souza](https://www.southampton.ac.uk/people/5x2phn/professor-ed-dsouza) $\leftrightarrow$ [Sunil Manghani](https://medium.com/the-ai-and-arts-forum/sunil-manghani-9658530f8785)
