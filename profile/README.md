@@ -5,7 +5,7 @@
 → <a href="https://github.com/electronic-life">repository</a>
 
 <br>
-<centre>*</centre>
+<centre>*</centre><br><br>
 <b>Electronic Life</b> is a collective working with the advances of artificial intelligence for the social good.  It was founded by Sunil Manghani, Ed D'Souza, and Tom Savage, adhering to a principle of 'Rigorous Creativity': a framework demanding the disciplined application of analytical methods in tandem with creative practice. 
 
 Electronic Life provides consultancy and public programming, which draws upon the work of its <b>Research Studio</b> co-directed by Professors Ed D'Souza and Sunil Manghani. Working at the intersection of art, design, and science, we collaborate with major international partners including Tate Britain, The Alan Turing Institute, Kochi-Muziris Biennale, and OP Jindal Global University to develop people-centred AI practices that address global challenges through equitable and inclusive approaches.
