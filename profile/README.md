@@ -2,7 +2,7 @@
 
 <b>OPEN RESOURCE</b><br><br>
 <b>Listening Machine:</b> An open-source, lightweight web-based application designed for provoking reflective cycles in art, culture, and society. Listening machine observes ambient conversation, transcribes it in real-time, and uses an LLM to generate provoking "thoughts" based on what it hears. These insights are then cycled through during the ongoing conversation, adding a layer of interactive contemplation to the environment, a dialogue. 
-→ <a href="https://github.com/orgs/electronic-life/repositories">repository</a>
+→ <a href="https://github.com/orgs/electronic-life/repositories">Repository</a>
 
 <br><br><br>
 <b>Electronic Life</b> is a collective working with the advances of artificial intelligence for the social good.  It was founded by Sunil Manghani, Ed D'Souza, and Tom Savage, adhering to a principle of 'Rigorous Creativity': a framework demanding the disciplined application of analytical methods in tandem with creative practice. 
